@@ -1,22 +1,16 @@
 # proyek-kb-ai-face-recognition
 
-EXTENSIONS
-1. CMake
+1. Install Cmake           : **pip install cmake**
+2. Install Boost           : **pip install cmake**
+3. Install Wheel           : **pip install cmake**
+4. Install Pyqt5           : **pip install cmake**
+5. Install Keras           : **pip install cmake**
+6. Install Tensorflow      : **pip install cmake**
+7. Install Matplotlib      : **pip install cmake**
+8. Install Pandas          : **pip install cmake**
+9. Install OpenCV          : **pip install cmake**
+10. Install dlib           : **pip install cmake**
+11. Install face_recog     : **pip install cmake**
+12. Install Cmake          : **pip install cmake**
 
-    **pip install cmake**
 
-2. Boost
-
-    **pip install boost**
-  
-3. dlib
-
-    **pip install dlib**
-  
-4. Face Recognition in dlib
-
-    **pip install face_recognition**
-  
-  
-Proposal (-)
-https://docs.google.com/document/d/1oKBwa_YL_N4fl5hrAAqfU7w31eaie5s6BoYnW8VzPt8/edit?usp=sharing
