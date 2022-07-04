@@ -1,22 +1,19 @@
 # proyek-kb-ai-face-recognition
+**Installation :**
+1. Install Cmake           : **pip install cmake**
+2. Install Boost           : **pip install boost**
+3. Install Wheel           : **pip install wheel**
+4. Install Pyqt5           : **pip install pyqt5**
+5. Install Keras           : **pip install keras**
+6. Install Tensorflow      : **pip install tensorflow**
+7. Install Matplotlib      : **pip install matplotlib**
+8. Install Pandas          : **pip install pandas**
+9. Install OpenCV          : **pip install opencv-python**
+10. Install dlib           : **pip install dlib-19.22.99-cp39-cp39-win_amd64.whl**
 
-EXTENSIONS
-1. CMake
+*Download wheel package for dlib first
 
-    **pip install cmake**
+Link : https://github.com/shashankx86/dlib_compiled
 
-2. Boost
+11. Install face_recog     : **pip install face_recognition**
 
-    **pip install boost**
-  
-3. dlib
-
-    **pip install dlib**
-  
-4. Face Recognition in dlib
-
-    **pip install face_recognition**
-  
-  
-Proposal (-)
-https://docs.google.com/document/d/1oKBwa_YL_N4fl5hrAAqfU7w31eaie5s6BoYnW8VzPt8/edit?usp=sharing
