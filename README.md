@@ -10,7 +10,10 @@
 8. Install Pandas          : **pip install pandas**
 9. Install OpenCV          : **pip install opencv-python**
 10. Install dlib           : **pip install dlib-19.22.99-cp39-cp39-win_amd64.whl**
+
 *Download wheel package for dlib first
+
 Link : https://github.com/shashankx86/dlib_compiled
+
 11. Install face_recog     : **pip install face_recognition**
 
